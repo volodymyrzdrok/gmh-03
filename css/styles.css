@@ -314,6 +314,7 @@ p {
   flex-basis: calc((100% - 60px) / 3);
 }
 .portfolio__img {
+  width: 100%;
 }
 .portfolio__desc {
   padding: 20px 24px;
